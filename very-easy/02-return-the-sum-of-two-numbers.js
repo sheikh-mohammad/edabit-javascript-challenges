@@ -1,4 +1,4 @@
-// Question 01:
+// Question 02:
 
 // Return the Sum of Two Numbers
 

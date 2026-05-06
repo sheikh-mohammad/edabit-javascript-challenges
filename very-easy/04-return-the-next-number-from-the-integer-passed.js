@@ -1,4 +1,4 @@
-// Question 03:
+// Question 04:
 
 // Return the Next Number from the Integer Passed
 
