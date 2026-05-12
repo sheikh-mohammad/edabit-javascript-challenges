@@ -16,7 +16,7 @@
 // If you're stuck, find help in the Resources tab.
 // If you're really stuck, find solutions in the Solutions tab.
 
-const findPerimeter = (length, width) => length * width;
+const findPerimeter = (length, width) => 2 * (length + width);
 
 console.log(findPerimeter(6, 7));
 console.log(findPerimeter(20, 10));
