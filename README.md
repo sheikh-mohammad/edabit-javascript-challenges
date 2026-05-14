@@ -53,7 +53,7 @@ At the time of writing there are **17** challenge files across four difficulty f
 edabit-javascript-challenges/
 ├── README.md
 ├── LICENSE
-├── very-easy/          # Introductory exercises
+├── very-easy/
 ├── easy/
 ├── medium/
 └── hard/
@@ -90,12 +90,6 @@ From the repository root:
 
 ```bash
 node very-easy/01-how-edabit-works.js
-```
-
-If the path contains spaces or special characters, quote it:
-
-```bash
-node "medium/01-how-much is-true?.js"
 ```
 
 Many files end with `console.log(...)` calls that print sample outputs; others are minimal and only define functions—you can add temporary logs while debugging.
@@ -145,7 +139,7 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 
 | File | Topic (short) |
 |------|----------------|
-| `01-how-much is-true?.js` | Count `true` in array |
+| `01-how-much-is-true?.js` | Count `true` in array |
 | `02-A-redundant-function.js` | Function behavior |
 
 ### Hard (`hard/`)
