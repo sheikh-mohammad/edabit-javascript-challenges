@@ -127,6 +127,8 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `13-find-the-perimeter-of-a-rectangle.js` | Perimeter |
 | `14-return-something-to-me.js` | String return |
 | `15-correct-the-mistakes.js` | Debugging |
+| `16-Is-the-less-than-or-equal-to-zero` | Comparison |
+| `17-sum-of-polygon-angles` | Geometry |
 
 ### Easy (`easy/`)
 
