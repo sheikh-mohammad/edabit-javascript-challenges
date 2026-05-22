@@ -37,7 +37,9 @@ very-easy/
 ├── 20-less-than-100.js        # Comparison logic
 ├── 21-buggy-code-part-5.js     # Loop debugging
 ├── 22-buggy-code-part-7.js     # Advanced debugging
-└── QWEN.md                     # This documentation file
+├── 23-the-farm-problem.js      # Arithmetic operations
+├── 24-using-the-"&&"-operator.js # Boolean Problems
+└── README.md                     # This documentation file
 ```
 
 ## Building and Running
