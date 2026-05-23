@@ -39,6 +39,8 @@ very-easy/
 ├── 22-buggy-code-part-7.js     # Advanced debugging
 ├── 23-the-farm-problem.js      # Arithmetic operations
 ├── 24-using-the-"&&"-operator.js # Boolean Problems
+├── 25-are-the-numbers-equal.js # comparison problems
+├── 26-football-points.js # scoring problems
 └── README.md                     # This documentation file
 ```
 
