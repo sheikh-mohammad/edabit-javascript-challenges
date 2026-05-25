@@ -41,6 +41,8 @@ very-easy/
 ├── 24-using-the-"&&"-operator.js # Boolean Problems
 ├── 25-are-the-numbers-equal.js # comparison problems
 ├── 26-football-points.js # scoring problems
+├── 27-convert-hours-and-minutes-into-seconds.js # time conversion problems
+├── 28-fix-the-expression.js # conditional logic problems
 └── README.md                     # This documentation file
 ```
 
