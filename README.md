@@ -129,6 +129,19 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `15-correct-the-mistakes.js` | Debugging |
 | `16-Is-the-less-than-or-equal-to-zero` | Comparison |
 | `17-sum-of-polygon-angles` | Geometry |
+| `18-basketball-points.js`  | Calculations |
+| `19-basic-variable-assignment.js`  | Variable assignment basics|
+| `20-less-than-100.js`  | Comparison |
+| `21-buggy-code-part-5.js`  | Loop debugging|
+| `22-buggy-code-part-7.js`  | Advanced debugging|
+| `23-the-farm-problem.js`  | Arithmetic operations|
+| `24-using-the-&&-operator.js`  | Boolean |
+| `25-are-the-numbers-equal.js`  | Comparison |
+| `26-football-points.js`  | Calculations |
+| `27-convert-hours-and-minutes-into-seconds.js`  | Calculations |
+| `28-fix-the-expression.js`  | Conditionals |
+| `29-equality-check.js`  | Comparison |
+| `30-profitable-gamble.js`  | Comparison |
 
 ### Easy (`easy/`)
 
@@ -141,14 +154,14 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 
 | File | Topic (short) |
 |------|----------------|
-| `01-how-much-is-true?.js` | Count `true` in array |
+| `01-how-much-is-true.js` | Count `true` in array |
 | `02-A-redundant-function.js` | Function behavior |
 
 ### Hard (`hard/`)
 
 | File | Topic (short) |
 |------|----------------|
-| `01-seven-boom!.js` | String / digit puzzle |
+| `01-seven-boom.js` | String / digit puzzle |
 
 *(Regenerate this table when you add files, or link to a script if you automate listing later.)*
 
