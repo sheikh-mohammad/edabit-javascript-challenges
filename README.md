@@ -142,6 +142,7 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `28-fix-the-expression.js`  | Conditionals |
 | `29-equality-check.js`  | Comparison |
 | `30-profitable-gamble.js`  | Comparison |
+| `31-boolean-to-string-conversion.js`  | Conversion |
 
 ### Easy (`easy/`)
 
