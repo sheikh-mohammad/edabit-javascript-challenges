@@ -143,6 +143,7 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `29-equality-check.js`  | Comparison |
 | `30-profitable-gamble.js`  | Comparison |
 | `31-boolean-to-string-conversion.js`  | Conversion |
+| `32-using-arrow-functions.js`  | Arrow functions |
 
 ### Easy (`easy/`)
 

@@ -46,6 +46,7 @@ very-easy/
 ├── 29-equality-check.js # comparison problems
 ├── 30-profitable-gamble.js # comparison problems
 ├── 31-boolean-to-string-conversion.js # conversion problems
+├── 32-using-arrow-functions.js # arrow functions
 └── README.md                     # This documentation file
 ```
 
