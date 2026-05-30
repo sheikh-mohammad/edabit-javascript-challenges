@@ -144,6 +144,7 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `30-profitable-gamble.js`  | Comparison |
 | `31-boolean-to-string-conversion.js`  | Conversion |
 | `32-using-arrow-functions.js`  | Arrow functions |
+| `33-frames-per-second.js`  | Arithmetic problems |
 
 ### Easy (`easy/`)
 

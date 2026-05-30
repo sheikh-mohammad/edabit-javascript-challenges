@@ -47,6 +47,7 @@ very-easy/
 ├── 30-profitable-gamble.js # comparison problems
 ├── 31-boolean-to-string-conversion.js # conversion problems
 ├── 32-using-arrow-functions.js # arrow functions
+├── 33-frames-per-second.js # arithmetic problems
 └── README.md                     # This documentation file
 ```
 
