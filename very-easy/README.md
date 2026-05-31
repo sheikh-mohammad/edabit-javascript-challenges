@@ -48,6 +48,7 @@ very-easy/
 ├── 31-boolean-to-string-conversion.js # conversion problems
 ├── 32-using-arrow-functions.js # arrow functions
 ├── 33-frames-per-second.js # arithmetic problems
+├── 34-miserable-parody-of-a-calculator.js # evaluator problems
 └── README.md                     # This documentation file
 ```
 

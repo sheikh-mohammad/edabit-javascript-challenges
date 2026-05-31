@@ -20,11 +20,11 @@
 
 // Solution:
 
-// Method 1: Arrow Function
+// Method 1: Arrow Function (=>)
 
-// const frames = (minutes, fps) => minutes * 60 * fps;
+const frames = (minutes, fps) => minutes * 60 * fps;
 
-// Method 2: Function Declaration
+// Method 2: Function Declaration (function)
 
 function frames(minutes, fps) {
   return minutes * 60 * fps;
