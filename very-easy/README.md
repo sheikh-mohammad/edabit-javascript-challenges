@@ -50,6 +50,7 @@ very-easy/
 ├── 33-frames-per-second.js # arithmetic problems
 ├── 34-miserable-parody-of-a-calculator.js # evaluator problems
 ├── 35-buggy-code-part-6.js # debugging exercises
+├── 36-two-makes-ten.js # comparison problems
 └── README.md                     # This documentation file
 ```
 

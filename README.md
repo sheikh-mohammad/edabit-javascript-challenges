@@ -147,6 +147,7 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `33-frames-per-second.js`  | Arithmetic problems |
 | `34-miserable-parody-of-a-calculator.js`  | Evaluator |
 | `35-buggy-code-part-6.js`  | Debugging exercises |
+| `36-two-makes-ten.js`  | Comparison problems |
 
 ### Easy (`easy/`)
 
