@@ -51,6 +51,7 @@ very-easy/
 ├── 34-miserable-parody-of-a-calculator.js # evaluator problems
 ├── 35-buggy-code-part-6.js # debugging exercises
 ├── 36-two-makes-ten.js # comparison problems
+├── 37-lets-fuel-up.js # arithmatic problems
 └── README.md                     # This documentation file
 ```
 

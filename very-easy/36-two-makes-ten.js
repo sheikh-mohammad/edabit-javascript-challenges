@@ -1,4 +1,4 @@
-// Question 36:
+// Question 36
 
 // Two Makes Ten
 
@@ -18,19 +18,19 @@
 
 // }
 
-// Solutions:
+// Solutions
 
 // Method 1: Function declaration (function)
 
-// function makesTen(a, b) {
-//   if (a === 10 || b === 10) {
-//     return true;
-//   } else if (a + b === 10) {
-//     return true;
-//   } else {
-//     return false;
-//   }
-// }
+function makesTen(a, b) {
+  if (a === 10 || b === 10) {
+    return true;
+  } else if (a + b === 10) {
+    return true;
+  } else {
+    return false;
+  }
+}
 
 // Method 2: Arrow Function (=>)
 
