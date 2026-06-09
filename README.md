@@ -150,6 +150,7 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `36-two-makes-ten.js`  | Comparison problems |
 | `37-lets-fuel-up.js`  | Arithmatic problems |
 | `38-buggy-code-part-2.js`  | Debugging exercises |
+| `39-pair-management.js`  | Return problems |
 
 ### Easy (`easy/`)
 

@@ -53,6 +53,7 @@ very-easy/
 ├── 36-two-makes-ten.js # comparison problems
 ├── 37-lets-fuel-up.js # arithmatic problems
 ├── 38-buggy-code-part-2.js # debugging exercises
+├── 39-pair-management.js # Return problems
 └── README.md                     # This documentation file
 ```
 
