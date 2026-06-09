@@ -36,7 +36,7 @@ function calculateFuel(n) {
   }
 }
 
-// Method 2: Arrow Function (=>)
+// Method 02: Arrow Function (=>)
 
 const calculateFuel = (n) => {
   let fuel = n * 10;
