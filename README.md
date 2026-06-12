@@ -43,7 +43,7 @@ Edabit-style challenges are small, focused exercises: implement a function (or f
 | Each `*.js` file | Comment block with the prompt, examples, and notes; your implementation below. |
 | No `package.json` | Plain Node.js scripts; no bundler or framework required. |
 
-At the time of writing there are **17** challenge files across four difficulty folders.
+At the time of writing there are **46** challenge files across four difficulty folders.
 
 ---
 
@@ -146,11 +146,13 @@ When you add new challenges, keep the same pattern: prompt in comments, then imp
 | `32-using-arrow-functions.js`  | Arrow functions |
 | `33-frames-per-second.js`  | Arithmetic problems |
 | `34-miserable-parody-of-a-calculator.js`  | Evaluator |
-| `35-buggy-code-part-6.js`  | Debugging exercises |
+| `35-buggy-code-part-4.js`  | Debugging exercises |
 | `36-two-makes-ten.js`  | Comparison problems |
 | `37-lets-fuel-up.js`  | Arithmatic problems |
 | `38-buggy-code-part-2.js`  | Debugging exercises |
 | `39-pair-management.js`  | Return problems |
+| `40-compare-strings-by-count-of-characters.js`  | String comparison |
+| `41-is-the-string-empty.js`  | String validation |
 
 ### Easy (`easy/`)
 

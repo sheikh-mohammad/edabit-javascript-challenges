@@ -22,7 +22,7 @@
 
 // }
 
-// Solution
+// Solutions
 
 // Method 01: Function declaration (function)
 

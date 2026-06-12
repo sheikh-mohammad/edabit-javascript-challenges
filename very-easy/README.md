@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a collection of JavaScript solutions for Edabit programming challenges in the "Very Easy" difficulty category. The project consists of 23 individual challenge files, each containing a complete solution to a specific programming problem along with example test cases.
+This is a collection of JavaScript solutions for Edabit programming challenges in the "Very Easy" difficulty category. The project consists of 41 individual challenge files, each containing a complete solution to a specific programming problem along with example test cases.
 
 [**Edabit**](https://edabit.com/) is an interactive coding platform that offers programming challenges across various difficulty levels. This collection focuses on foundational JavaScript concepts and problem-solving techniques.
 
@@ -49,11 +49,13 @@ very-easy/
 ├── 32-using-arrow-functions.js # arrow functions
 ├── 33-frames-per-second.js # arithmetic problems
 ├── 34-miserable-parody-of-a-calculator.js # evaluator problems
-├── 35-buggy-code-part-6.js # debugging exercises
+├── 35-buggy-code-part-4.js # debugging exercises
 ├── 36-two-makes-ten.js # comparison problems
 ├── 37-lets-fuel-up.js # arithmatic problems
 ├── 38-buggy-code-part-2.js # debugging exercises
 ├── 39-pair-management.js # Return problems
+├── 40-compare-strings-by-count-of-characters.js # String comparison problems
+├── 41-is-the-string-empty.js # String validation problems
 └── README.md                     # This documentation file
 ```
 
